@@ -24,4 +24,10 @@ int main()
     else{
         cout<<" Дільник дорівнює 0";
     }*/
+    cout << "Hello World!" << endl;
+    cout << "Hello World!" << endl;
+    cout << "Hello World!" << endl;
+    cout << "Hello World!" << endl;
+    cout << "Hello World!" << endl;
+    cout << "Hello World!" << endl;
     return 0;}
